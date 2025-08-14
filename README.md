@@ -30,3 +30,4 @@ Add file upload support (PDF, DOCX). Deploy the Streamlit app on a public server
 
 **Output**
 
+![Image](https://github.com/user-attachments/assets/da515d99-a0e2-4c12-b873-a0674f32b2b1)
